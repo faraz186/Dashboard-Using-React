@@ -1,0 +1,227 @@
+.head1{
+  position: absolute;
+  margin-left: 500px;
+  top: 10%;
+  font-size: 35px;
+  font-weight: 900;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(13, 13, 22);
+}   
+.field{
+  position: absolute;
+  top: 190px;
+  left: 31.6%;
+}
+
+.divOne{
+  
+  background: rgb(58,180,179);
+  background: linear-gradient(90deg, rgba(58,180,179,0.5186449579831933) 0%, rgba(233,253,29,0.24413515406162467) 50%, rgba(69,251,252,0.21332282913165268) 100%); 
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.divTwo{
+  background: rgb(58,180,179);
+  background: linear-gradient(90deg, rgba(58,180,179,0.5186449579831933) 0%, rgba(233,253,29,0.24413515406162467) 50%, rgba(69,251,252,0.21332282913165268) 100%); 
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.search{
+  position: absolute;
+  top: 25%;
+  border: none;
+  padding: 10px 40px;
+  left: 45%;
+  border-radius: 4px;
+}
+
+.search-icons{
+  position:absolute;
+  top: 35%;
+  left: 61.5%;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button1{
+  position: absolute;
+  left: 80%;
+  top: 80%;
+  color: black;
+}
+
+.button2{
+  position: absolute;
+  left: 80%;
+  top: 80%;
+  color: black;
+  color: rgb(220, 212, 212);
+}
+
+.icon1{
+  position: absolute;
+  top: 15%;
+  left: 19%;
+}
+
+.para{
+  position: absolute;
+  left: 26%;
+  top: 22%;
+  font-size: 17px;
+  color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.name-div{
+  color: orangered;
+  position: absolute;
+  left: 26%;
+  top: 17%;
+  font-size: 36px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pic1{
+  position: absolute;
+  top: 40%;
+  left: 21%;
+  border: 1px solid black;
+  padding: 8px 18px;
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.pic2{
+  position: absolute;
+  top: 40%;
+  left: 32%;
+  border: 1px solid black;
+  padding: 8px 18px;
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.pic3{
+  position: absolute;
+  top: 40%;
+  left: 44%;
+  border: 1px solid black;
+  padding: 10.5px 18px;
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.pic4{
+  position: absolute;
+  top: 40%;
+  left: 56%;
+  border: 1px solid black;
+  padding: 8px 18px;
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+}
+
+.graph{
+  position: absolute;
+  top: 57%;
+  left: 24%;
+  width: "600px";
+  height: "500px";
+}
+
+.graph2{
+  position: absolute;
+  top: 25%;
+  left: 82%;
+}
+
+.calendar{
+  position: absolute;
+  top: 63%;
+  left: 79.4%;
+}
+
+.date{
+  position: absolute;
+  top: 58.5%;
+  left: 80%;
+  font-size: 25px;
+}
+
+.project{
+  position: absolute;
+  top: 90%;
+  left: 22%;
+}
+
+.profile-div{
+  background-color:#bfddeeec;
+  width: 100%;
+  overflow-x: auto;
+  box-sizing: border-box;
+  
+}
+
+.heading3{
+  margin-left: 600px;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box22{
+  border: 1px solid black;
+  width: 40%;
+  margin-left: 26%;
+  margin-bottom: 134px;
+  padding: 8px 30px;
+  border-radius: 3px;
+  border-left: 5px solid rgb(2, 117, 2);
+  border-right: 5px solid rgb(2, 117, 2);
+  
+}
+
+.h11,.h12,.h13,.h14{
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.hh1,.hh2,.hh3,.hh4,.hh5{
+  color: rgb(2, 0, 98);
+  font-weight: 700;
+}
+
+.LoginButton{
+  position: absolute;
+  top: 64.5%;
+  left: 40%;
+  text-decoration: none;
+  border-radius: 5px;
+  color: black;
+  font-size: 15px;
+  border: 1px solid black;
+  padding: 10px 29px;
+}
+
+.dashButton{
+  position: absolute;
+  top: 88%;
+  text-decoration: none;
+  left: 40%;
+  color: red;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 32px;
+  border: 1px solid black;
+  border-top: 4px solid blue;
+  border-bottom: 4px solid blue;
+  padding: 6px 18px;
+}
